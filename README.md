@@ -1,6 +1,7 @@
 
 # Appendix
 ## Goodies
+- [w3schools](https://www.w3schools.com/)
 - [GitHub Student](https://education.github.com/pack)
 - [JetBrains Student](https://www.jetbrains.com/student/)
 - [Git Cheat-Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
